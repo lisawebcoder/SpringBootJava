@@ -1,0 +1,22 @@
+
+dev
+~~~~
+logging.level.org.springframework=trace
+
+prod
+~~~~
+logging.level.org.springframework=info
+
+
+trace
+debug
+info
+warning
+error
+
+off
+
+jan8th2023
+Building jar: C:\Users\Tommy Robert\Desktop\school 2021\collegeIT2022Winter\3rdsemester\Java\master-spring-and-spring-boot-main\master-spring-and-spring-boot-main\02-springboot\target\learn-spring-boot-0.0.1-SNAPSHOT.jar
+java -jar learn-spring-boot-0.0.1-SNAPSHOT.jar
+java -version
